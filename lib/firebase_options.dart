@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA2n40vEzYqlwl6_bv1Lyoo56uFRewXzZo',
-    appId: '1:477793632396:android:047c520713929afefd7ba9',
-    messagingSenderId: '477793632396',
-    projectId: 'medipath-76e62',
-    storageBucket: 'medipath-76e62.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCkzYS1VnqeMLzavKQWa5zaLmh6SV_K-mg',
-    appId: '1:477793632396:ios:96b62c264077816afd7ba9',
-    messagingSenderId: '477793632396',
-    projectId: 'medipath-76e62',
-    storageBucket: 'medipath-76e62.appspot.com',
-    iosBundleId: 'com.hexagon.repathy',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
 }
