@@ -112,3 +112,4 @@ analytics/macos/Runner/GoogleService-Info.plist
 **/google-services.json
 **/firebase_app_id_file.json
 functions/endpoints/keys.json
+functions/endpoints/keys.json
