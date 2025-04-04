@@ -1,0 +1,5 @@
+{
+    "editor.rulers": [130],
+    "dart.lineLength": 130,
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
